@@ -9,7 +9,7 @@ void orden(int a, int b);
 int main()
 {
      int numero = 3;
-     int a = 70;
+     int a = 80;
      int b = 50;
 
      printf("Cuadrado del numero con la primera funcion: %d\n", cuadradoDeUnNumero(numero));
